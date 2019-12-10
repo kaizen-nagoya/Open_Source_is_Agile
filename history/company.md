@@ -14,4 +14,5 @@ https://www.okuma.co.jp
 http://www.adhocjapan.co.jp/sub2.html
 
 大野俊治
+https://interface.cqpub.co.jp/wp-content/uploads/interface/2010/07/if07_169.pdf
 　元アスキー、オープンソースカンファレンス東京のTOPPERSプロジェクトのブースで説明員をしていただきました。ありがとうございました。
