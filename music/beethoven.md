@@ -12,3 +12,6 @@ https://www.youtube.com/watch?v=sAC__G1MIck
 ヘルベルト・フォン・カラヤン指揮　ベルリンフィルハーモニー管弦楽団
 ソプラノ：グンドゥラ・ヤノヴィッツ
 https://www.youtube.com/watch?v=HV7bgY626rU
+
+Beethoven: Symphony No. 9, Toscanini & NBCso (1952) ベートーヴェン 交響曲第9番 トスカニーニ(詞字幕有)
+https://www.youtube.com/watch?v=n-SV9TRIb0Y
