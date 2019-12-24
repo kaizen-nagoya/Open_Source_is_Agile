@@ -21,5 +21,8 @@ https://www.youtube.com/watch?v=n-SV9TRIb0Y
 Beethoven: Symphony No. 9, Walter & ColumbiaSO (1959) ベートーヴェン 交響曲第9番 ワルター(詞字幕有)
 https://www.youtube.com/watch?v=1pwSkmYYlgw
 
+BEETHOVEN - Symphony No 9 'Choral' - Wilhelm Furtwangler (1951) HD
+https://www.youtube.com/watch?v=HIAm6oAv8fY
+
 Beethoven 9 - Chicago Symphony Orchestra - Riccardo Muti
 https://www.youtube.com/watch?v=rOjHhS5MtvA
