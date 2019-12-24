@@ -26,5 +26,5 @@ https://www.youtube.com/watch?v=1pwSkmYYlgw
 BEETHOVEN - Symphony No 9 'Choral' - Wilhelm Furtwangler (1951) HD
 https://www.youtube.com/watch?v=HIAm6oAv8fY
 
-Beethoven 9 - Chicago Symphony Orchestra - Riccardo Muti
+Beethoven 9 - Chicago Symphony Orchestra - Riccardo Muti,  Chicago Symphony Orchestra, May 7, 2015 
 https://www.youtube.com/watch?v=rOjHhS5MtvA
