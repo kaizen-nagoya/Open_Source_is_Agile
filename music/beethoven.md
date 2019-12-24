@@ -7,3 +7,8 @@ https://music.apple.com/jp/album/beethoven-symphony-no-9/206122074
 
 ベートーヴェン 交響曲第9番ニ短調作品125《合唱付き》 第3楽章　ベーム
 https://www.youtube.com/watch?v=sAC__G1MIck
+
+交響曲第９番《合唱付き》 （ベートーヴェン）1968年01月03日　ベルリンフィルハーモニーホール
+ヘルベルト・フォン・カラヤン指揮　ベルリンフィルハーモニー管弦楽団
+ソプラノ：グンドゥラ・ヤノヴィッツ
+https://www.youtube.com/watch?v=HV7bgY626rU
