@@ -15,3 +15,9 @@ https://www.youtube.com/watch?v=HV7bgY626rU
 
 Beethoven: Symphony No. 9, Toscanini & NBCso (1952) ベートーヴェン 交響曲第9番 トスカニーニ(詞字幕有)
 https://www.youtube.com/watch?v=n-SV9TRIb0Y
+
+Beethoven: Symphony No. 9, Walter & ColumbiaSO (1959) ベートーヴェン 交響曲第9番 ワルター(詞字幕有)
+https://www.youtube.com/watch?v=1pwSkmYYlgw
+
+Beethoven 9 - Chicago Symphony Orchestra - Riccardo Muti
+https://www.youtube.com/watch?v=rOjHhS5MtvA
