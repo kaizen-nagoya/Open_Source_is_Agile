@@ -38,3 +38,9 @@
 
 2007年から2016年まで岐阜大学で非常勤講師。卒業研究などは担当せず。
 静岡大学在学中の2004年の共同研究者（大学院生）は　澤井新
+
+
+
+
+萬代 みどり
+https://www.nagoya-ku.ac.jp/~mscjimu/file/2019/2019timetable_ho_kouki.pdf
