@@ -1,4 +1,5 @@
-# people
+# people 
+There are some people at Qiita.
 
 https://qiita.com/berry-clione
 
@@ -44,7 +45,23 @@ https://github.com/ryoforcelapin
 
 https://github.com/inosn7bc
 
+https://github.com/samuraijap
+
+https://github.com/halueda
+
+https://github.com/ryouka0122
+
 # repository
+
+These repository are registered by people above. 
+
+I interest in 3 type of projects.
+
+1) popular language projects like as C, C++, C#, Java, Python, Javascript and PHP.
+
+2) Web service, Machine learning and Quantum computing.
+
+3) usage of github and docker.
 
 https://github.com/matttttttso/freemarket_sample_64a
 
@@ -68,8 +85,12 @@ https://github.com/Grandge/Osuwari
 
 https://github.com/ayatec/ayatec
 
-
 https://github.com/j-o-h-n-c-e-n-a/Memo
 
-
 https://github.com/e4exp/03_memo
+
+https://github.com/samuraijap/TFTLCD-Library
+
+https://github.com/halueda/Hatena-Textbook
+
+https://github.com/ryouka0122/shareboard-ml
