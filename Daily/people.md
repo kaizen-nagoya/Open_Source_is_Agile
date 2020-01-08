@@ -63,6 +63,8 @@ https://github.com/buntech
 
 https://github.com/tears-aya
 
+https://github.com/Tkoshi000
+
 # repository
 
 These repository are registered by people above. 
@@ -116,4 +118,6 @@ https://github.com/buntech/Portfolio
 https://github.com/musemel
 
 https://github.com/musemel/docker-jenkins-android
+
+https://github.com/Tkoshi000/quickstart-js
 
