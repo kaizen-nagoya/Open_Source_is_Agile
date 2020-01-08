@@ -59,6 +59,10 @@ https://github.com/zabu36
 
 https://github.com/toda
 
+https://github.com/buntech
+
+https://github.com/tears-aya
+
 # repository
 
 These repository are registered by people above. 
@@ -106,3 +110,10 @@ https://github.com/ryouka0122/shareboard-ml
 https://github.com/HideakiSaito/calculator
 
 https://github.com/shibuiwilliam/darts
+
+https://github.com/buntech/Portfolio
+
+https://github.com/musemel
+
+https://github.com/musemel/docker-jenkins-android
+
