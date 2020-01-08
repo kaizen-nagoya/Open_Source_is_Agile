@@ -51,6 +51,14 @@ https://github.com/halueda
 
 https://github.com/ryouka0122
 
+https://github.com/HideakiSaito
+
+https://github.com/shibuiwilliam
+
+https://github.com/zabu36
+
+https://github.com/toda
+
 # repository
 
 These repository are registered by people above. 
@@ -94,3 +102,7 @@ https://github.com/samuraijap/TFTLCD-Library
 https://github.com/halueda/Hatena-Textbook
 
 https://github.com/ryouka0122/shareboard-ml
+
+https://github.com/HideakiSaito/calculator
+
+https://github.com/shibuiwilliam/darts
