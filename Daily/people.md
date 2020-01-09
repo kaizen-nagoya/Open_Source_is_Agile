@@ -1,7 +1,7 @@
 # people 
 There are some people at Qiita.
 
-https://qiita.com/berry-clione
+https://github.com/helmenov
 
 https://github.com/kahiroaki
 
