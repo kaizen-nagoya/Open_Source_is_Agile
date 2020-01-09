@@ -95,6 +95,8 @@ https://github.com/Q00oo
 
 https://github.com/ToshinoriT
 
+https://github.com/helmenov
+
 # repository
 
 These repository are registered by people above. 
@@ -170,6 +172,10 @@ https://github.com/Fivro/Password-Generator
 https://github.com/mkt120/quickstart-android
 
 https://github.com/masagoto1983/Zensho_Kentei
+
+## python
+
+https://github.com/helmenov/SoundArtificialityDetection
 
 ## java
 https://github.com/ToshinoriT/wt-commons
