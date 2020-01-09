@@ -69,6 +69,32 @@ https://github.com/ykhirao
 
 https://github.com/chikin14niwa
 
+https://github.com/yarnaimo
+
+https://github.com/Fivro
+
+https://github.com/suharahiromichi
+
+https://github.com/tmori
+
+https://github.com/mkt120
+
+https://github.com/yskzoba
+
+https://github.com/f0reachARR
+
+https://github.com/masagoto1983
+
+https://github.com/masagoto1983
+
+https://github.com/tea-red
+
+https://github.com/okumurakengo
+
+https://github.com/Q00oo
+
+https://github.com/ToshinoriT
+
 # repository
 
 These repository are registered by people above. 
@@ -80,6 +106,12 @@ I interest in 3 type of projects.
 2) Web service, Machine learning and Quantum computing.
 
 3) usage of github and docker.
+
+## plan
+
+We will perform all repository at docker.
+
+## list
 
 https://github.com/matttttttso/freemarket_sample_64a
 
@@ -131,3 +163,27 @@ https://github.com/ykhirao/exposures
 
 https://github.com/chikin14niwa/docker-pritunl
 
+https://github.com/yarnaimo/vanilla-clipper
+
+https://github.com/Fivro/Password-Generator
+
+https://github.com/mkt120/quickstart-android
+
+https://github.com/masagoto1983/Zensho_Kentei
+
+## java
+https://github.com/ToshinoriT/wt-commons
+
+## typescript
+
+https://github.com/okumurakengo/console-tetoris
+
+## C+;
+https://github.com/f0reachARR/inputstream.adaptive
+
+### coq
+https://github.com/suharahiromichi/coq
+
+## athrill
+
+https://github.com/tmori/athrill
