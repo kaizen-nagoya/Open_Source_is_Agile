@@ -99,6 +99,13 @@ https://github.com/helmenov
 
 https://github.com/hanzoarch
 
+https://github.com/AKKYM
+
+https://github.com/y-hama
+
+https://github.com/hanzoarch
+
+
 # repository
 
 These repository are registered by people above. 
@@ -174,6 +181,9 @@ https://github.com/Fivro/Password-Generator
 https://github.com/mkt120/quickstart-android
 
 https://github.com/masagoto1983/Zensho_Kentei
+
+## C#
+https://github.com/y-hama/SpkNeu
 
 ## python
 
