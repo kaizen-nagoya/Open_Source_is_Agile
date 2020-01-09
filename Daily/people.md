@@ -65,6 +65,8 @@ https://github.com/tears-aya
 
 https://github.com/Tkoshi000
 
+https://github.com/ykhirao
+
 # repository
 
 These repository are registered by people above. 
@@ -120,4 +122,8 @@ https://github.com/musemel
 https://github.com/musemel/docker-jenkins-android
 
 https://github.com/Tkoshi000/quickstart-js
+
+https://github.com/ykhirao/write-code-everyday-bot
+
+https://github.com/ykhirao/exposures
 
