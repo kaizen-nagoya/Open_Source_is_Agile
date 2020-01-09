@@ -67,6 +67,8 @@ https://github.com/Tkoshi000
 
 https://github.com/ykhirao
 
+https://github.com/chikin14niwa
+
 # repository
 
 These repository are registered by people above. 
@@ -126,4 +128,6 @@ https://github.com/Tkoshi000/quickstart-js
 https://github.com/ykhirao/write-code-everyday-bot
 
 https://github.com/ykhirao/exposures
+
+https://github.com/chikin14niwa/docker-pritunl
 
