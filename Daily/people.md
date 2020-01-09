@@ -97,6 +97,8 @@ https://github.com/ToshinoriT
 
 https://github.com/helmenov
 
+https://github.com/hanzoarch
+
 # repository
 
 These repository are registered by people above. 
@@ -175,7 +177,10 @@ https://github.com/masagoto1983/Zensho_Kentei
 
 ## python
 
+https://github.com/hanzoarch/study-picamera-examples2
+
 https://github.com/helmenov/SoundArtificialityDetection
+
 
 ## java
 https://github.com/ToshinoriT/wt-commons
