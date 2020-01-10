@@ -105,6 +105,8 @@ https://github.com/y-hama
 
 https://github.com/hanzoarch
 
+https://github.com/PharaohKJ
+
 
 # repository
 
@@ -201,6 +203,8 @@ https://github.com/okumurakengo/console-tetoris
 
 ## C+;
 https://github.com/f0reachARR/inputstream.adaptive
+
+https://github.com/PharaohKJ/3d-game-shaders-for-beginners
 
 ### coq
 https://github.com/suharahiromichi/coq
