@@ -109,6 +109,9 @@ https://github.com/PharaohKJ
 
 https://qiita.com/shmy
 
+https://github.com/sashisusesouyu
+
+https://github.com/kenji114
 
 # repository
 
@@ -216,3 +219,7 @@ https://github.com/suharahiromichi/coq
 ## athrill
 
 https://github.com/tmori/athrill
+
+## processing
+
+https://github.com/sashisusesouyu/DelaunayTriangleByProcessing
