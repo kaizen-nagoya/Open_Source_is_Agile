@@ -107,6 +107,8 @@ https://github.com/hanzoarch
 
 https://github.com/PharaohKJ
 
+https://qiita.com/shmy
+
 
 # repository
 
@@ -196,6 +198,8 @@ https://github.com/helmenov/SoundArtificialityDetection
 
 ## java
 https://github.com/ToshinoriT/wt-commons
+
+https://github.com/shmyGlass/OTGanttChartKit
 
 ## typescript
 
