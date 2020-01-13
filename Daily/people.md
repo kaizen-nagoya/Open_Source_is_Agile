@@ -113,6 +113,10 @@ https://github.com/sashisusesouyu
 
 https://github.com/kenji114
 
+https://github.com/coa00
+
+https://github.com/porori
+
 # repository
 
 These repository are registered by people above. 
@@ -189,6 +193,9 @@ https://github.com/mkt120/quickstart-android
 
 https://github.com/masagoto1983/Zensho_Kentei
 
+## PHP
+https://github.com/porori/AmazonWebServicesBundle
+
 ## C#
 https://github.com/y-hama/SpkNeu
 
@@ -203,6 +210,10 @@ https://github.com/helmenov/SoundArtificialityDetection
 https://github.com/ToshinoriT/wt-commons
 
 https://github.com/shmyGlass/OTGanttChartKit
+
+## javascript
+
+https://github.com/coa00/pizas
 
 ## typescript
 
