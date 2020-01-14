@@ -232,6 +232,8 @@ https://github.com/antibec/haikudeptest
 
 https://github.com/okumurakengo/console-tetoris
 
+https://github.com/antibec/haikudeptest
+
 ## C+;
 https://github.com/f0reachARR/inputstream.adaptive
 
