@@ -117,6 +117,12 @@ https://github.com/coa00
 
 https://github.com/porori
 
+https://github.com/antibec
+
+https://github.com/YutaNakamuraDotCom
+
+https://github.com/sustny
+
 # repository
 
 These repository are registered by people above. 
@@ -205,6 +211,11 @@ https://github.com/hanzoarch/study-picamera-examples2
 
 https://github.com/helmenov/SoundArtificialityDetection
 
+https://github.com/YutaNakamuraDotCom/dockertest
+
+## google script
+https://github.com/sustny/GAS_public
+
 
 ## java
 https://github.com/ToshinoriT/wt-commons
@@ -214,6 +225,8 @@ https://github.com/shmyGlass/OTGanttChartKit
 ## javascript
 
 https://github.com/coa00/pizas
+
+https://github.com/antibec/haikudeptest
 
 ## typescript
 
