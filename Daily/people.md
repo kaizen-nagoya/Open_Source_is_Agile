@@ -123,6 +123,9 @@ https://github.com/YutaNakamuraDotCom
 
 https://github.com/sustny
 
+https://github.com/minotier89
+
+
 # repository
 
 These repository are registered by people above. 
@@ -212,6 +215,8 @@ https://github.com/hanzoarch/study-picamera-examples2
 https://github.com/helmenov/SoundArtificialityDetection
 
 https://github.com/YutaNakamuraDotCom/dockertest
+
+https://github.com/minotier89/testcafe-examples
 
 ## google script
 https://github.com/sustny/GAS_public
