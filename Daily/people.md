@@ -125,6 +125,7 @@ https://github.com/sustny
 
 https://github.com/minotier89
 
+https://github.com/haruKazuchi
 
 # repository
 
@@ -217,6 +218,9 @@ https://github.com/helmenov/SoundArtificialityDetection
 https://github.com/YutaNakamuraDotCom/dockertest
 
 https://github.com/minotier89/testcafe-examples
+
+## css
+https://github.com/haruKazuchi/pseudoclass
 
 ## google script
 https://github.com/sustny/GAS_public
