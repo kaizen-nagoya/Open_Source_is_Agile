@@ -127,6 +127,12 @@ https://github.com/minotier89
 
 https://github.com/haruKazuchi
 
+https://github.com/ogikubonemui
+
+https://github.com/no6link
+
+https://github.com/unhappychoice
+
 # repository
 
 These repository are registered by people above. 
@@ -203,8 +209,14 @@ https://github.com/mkt120/quickstart-android
 
 https://github.com/masagoto1983/Zensho_Kentei
 
+## kotlin
+
+https://github.com/unhappychoice/Norimaki
+
 ## PHP
 https://github.com/porori/AmazonWebServicesBundle
+
+https://github.com/ogikubonemui/49_LearnSNS
 
 ## C#
 https://github.com/y-hama/SpkNeu
@@ -243,10 +255,12 @@ https://github.com/okumurakengo/console-tetoris
 
 https://github.com/antibec/haikudeptest
 
-## C+;
+## C++
 https://github.com/f0reachARR/inputstream.adaptive
 
 https://github.com/PharaohKJ/3d-game-shaders-for-beginners
+
+https://github.com/no6link/hinawaju20160222_v001
 
 ### coq
 https://github.com/suharahiromichi/coq
