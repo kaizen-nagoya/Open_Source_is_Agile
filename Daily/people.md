@@ -133,6 +133,8 @@ https://github.com/no6link
 
 https://github.com/unhappychoice
 
+https://github.com/nori5
+
 # repository
 
 These repository are registered by people above. 
@@ -272,3 +274,7 @@ https://github.com/tmori/athrill
 ## processing
 
 https://github.com/sashisusesouyu/DelaunayTriangleByProcessing
+
+## kotlin
+https://github.com/nori5/ramen-timer
+
