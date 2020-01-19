@@ -1,9 +1,21 @@
 # people 
 There are some people at Qiita.
 
+https://github.com/Hiroki-IT
+
+https://github.com/Neos21
+
+https://github.com/edasan0308
+
+https://github.com/NaaOs
+
+https://github.com/popo0323
+
 https://github.com/helmenov
 
 https://github.com/kahiroaki
+
+https://github.com/hrkt
 
 https://github.com/heliac2000
 
@@ -135,6 +147,8 @@ https://github.com/unhappychoice
 
 https://github.com/nori5
 
+https://github.com/neuneu9
+
 # repository
 
 These repository are registered by people above. 
@@ -211,9 +225,23 @@ https://github.com/mkt120/quickstart-android
 
 https://github.com/masagoto1983/Zensho_Kentei
 
+## go
+
+https://github.com/hrkt/greetings-server
+
+## shell
+
+https://github.com/Neos21/dotfiles
+
+## markdown
+
+https://github.com/Hiroki-IT/tech-notebook
+
 ## kotlin
 
 https://github.com/unhappychoice/Norimaki
+
+https://github.com/nori5/ramen-timer
 
 ## PHP
 https://github.com/porori/AmazonWebServicesBundle
@@ -222,6 +250,8 @@ https://github.com/ogikubonemui/49_LearnSNS
 
 ## C#
 https://github.com/y-hama/SpkNeu
+
+https://github.com/NaaOs/TaskManager
 
 ## python
 
@@ -232,6 +262,10 @@ https://github.com/helmenov/SoundArtificialityDetection
 https://github.com/YutaNakamuraDotCom/dockertest
 
 https://github.com/minotier89/testcafe-examples
+
+## ruby
+
+https://github.com/popo0323/mastodon
 
 ## css
 https://github.com/haruKazuchi/pseudoclass
@@ -244,6 +278,8 @@ https://github.com/sustny/GAS_public
 https://github.com/ToshinoriT/wt-commons
 
 https://github.com/shmyGlass/OTGanttChartKit
+
+https://github.com/edasan0308/FlashAir
 
 ## javascript
 
