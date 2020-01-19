@@ -3,6 +3,8 @@ There are some people at Qiita.
 
 https://github.com/Hiroki-IT
 
+https://github.com/80pc
+
 https://github.com/Neos21
 
 https://github.com/edasan0308
@@ -247,6 +249,8 @@ https://github.com/nori5/ramen-timer
 https://github.com/porori/AmazonWebServicesBundle
 
 https://github.com/ogikubonemui/49_LearnSNS
+
+https://github.com/80pc/_s
 
 ## C#
 https://github.com/y-hama/SpkNeu
