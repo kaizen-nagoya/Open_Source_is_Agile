@@ -5,6 +5,8 @@ https://github.com/Hiroki-IT
 
 https://github.com/80pc
 
+https://github.com/ryotak3
+
 https://github.com/Neos21
 
 https://github.com/moochi
@@ -294,6 +296,8 @@ https://github.com/edasan0308/FlashAir
 https://github.com/coa00/pizas
 
 https://github.com/antibec/haikudeptest
+
+https://github.com/ryotak3/firepresso
 
 ## typescript
 
