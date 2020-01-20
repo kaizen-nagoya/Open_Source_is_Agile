@@ -7,6 +7,8 @@ https://github.com/80pc
 
 https://github.com/Neos21
 
+https://github.com/moochi
+
 https://github.com/edasan0308
 
 https://github.com/NaaOs
@@ -266,6 +268,8 @@ https://github.com/helmenov/SoundArtificialityDetection
 https://github.com/YutaNakamuraDotCom/dockertest
 
 https://github.com/minotier89/testcafe-examples
+
+https://github.com/moochi/demadatter
 
 ## ruby
 
