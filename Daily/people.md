@@ -17,6 +17,8 @@ https://github.com/NaaOs
 
 https://github.com/popo0323
 
+https://github.com/yujiyuji0610
+
 https://github.com/yusuke0505
 
 https://github.com/helmenov
@@ -313,6 +315,8 @@ https://github.com/f0reachARR/inputstream.adaptive
 https://github.com/PharaohKJ/3d-game-shaders-for-beginners
 
 https://github.com/no6link/hinawaju20160222_v001
+
+https://github.com/yujiyuji0610/Firmware
 
 ### coq
 https://github.com/suharahiromichi/coq
