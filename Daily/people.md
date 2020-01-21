@@ -1,6 +1,8 @@
 # people 
 There are some people at Qiita.
 
+https://github.com/sisidovski
+
 https://github.com/Hiroki-IT
 
 https://github.com/80pc
@@ -254,6 +256,8 @@ https://github.com/unhappychoice/Norimaki
 https://github.com/nori5/ramen-timer
 
 ## PHP
+https://github.com/sisidovski/CombinationalExplosion
+
 https://github.com/porori/AmazonWebServicesBundle
 
 https://github.com/ogikubonemui/49_LearnSNS
