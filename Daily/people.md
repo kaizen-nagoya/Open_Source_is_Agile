@@ -55,6 +55,8 @@ https://github.com/wswsans
 
 https://github.com/mk668a
 
+https://github.com/Johannyjm
+
 https://github.com/crayoncrayon2003
 
 https://github.com/t12cs040
@@ -162,6 +164,8 @@ https://github.com/unhappychoice
 https://github.com/nori5
 
 https://github.com/neuneu9
+
+https://github.com/papinianus
 
 # repository
 
@@ -273,6 +277,8 @@ https://github.com/NaaOs/TaskManager
 
 ## python
 
+https://github.com/papinianus/botocore
+
 https://github.com/hanzoarch/study-picamera-examples2
 
 https://github.com/helmenov/SoundArtificialityDetection
@@ -325,6 +331,8 @@ https://github.com/PharaohKJ/3d-game-shaders-for-beginners
 https://github.com/no6link/hinawaju20160222_v001
 
 https://github.com/yujiyuji0610/Firmware
+
+https://github.com/Johannyjm/tensorflow/tree/master/tensorflow
 
 ### coq
 https://github.com/suharahiromichi/coq
