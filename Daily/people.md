@@ -5,6 +5,8 @@ https://github.com/sisidovski
 
 https://github.com/Hiroki-IT
 
+https://github.com/Tomato27
+
 https://github.com/80pc
 
 https://github.com/ryotak3
@@ -280,6 +282,8 @@ https://github.com/YutaNakamuraDotCom/dockertest
 https://github.com/minotier89/testcafe-examples
 
 https://github.com/moochi/demadatter
+
+https://github.com/Tomato27/ScatterNet-Keras
 
 ## ruby
 
