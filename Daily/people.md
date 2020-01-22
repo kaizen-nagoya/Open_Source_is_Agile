@@ -1,6 +1,8 @@
 # people 
 There are some people at Qiita.
 
+https://github.com/hikarin522
+
 https://github.com/sisidovski
 
 https://github.com/Hiroki-IT
@@ -270,10 +272,7 @@ https://github.com/ogikubonemui/49_LearnSNS
 
 https://github.com/80pc/_s
 
-## C#
-https://github.com/y-hama/SpkNeu
 
-https://github.com/NaaOs/TaskManager
 
 ## python
 
@@ -322,6 +321,13 @@ https://github.com/ryotak3/firepresso
 https://github.com/okumurakengo/console-tetoris
 
 https://github.com/antibec/haikudeptest
+
+## C#
+https://github.com/y-hama/SpkNeu
+
+https://github.com/NaaOs/TaskManager
+
+https://github.com/hikarin522/GlassIt-VSC
 
 ## C++
 https://github.com/f0reachARR/inputstream.adaptive
