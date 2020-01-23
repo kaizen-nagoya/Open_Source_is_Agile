@@ -1,6 +1,8 @@
 # people 
 There are some people at Qiita.
 
+https://github.com/kamata1729
+
 https://github.com/hikarin522
 
 https://github.com/sisidovski
@@ -169,6 +171,8 @@ https://github.com/neuneu9
 
 https://github.com/papinianus
 
+https://github.com/noritakaIzumi
+
 # repository
 
 These repository are registered by people above. 
@@ -278,6 +282,8 @@ https://github.com/80pc/_s
 
 https://github.com/papinianus/botocore
 
+https://github.com/kamata1729/arxiv-crawler
+
 https://github.com/hanzoarch/study-picamera-examples2
 
 https://github.com/helmenov/SoundArtificialityDetection
@@ -315,6 +321,8 @@ https://github.com/coa00/pizas
 https://github.com/antibec/haikudeptest
 
 https://github.com/ryotak3/firepresso
+
+https://github.com/noritakaIzumi/mongodb_tutorial
 
 ## typescript
 
