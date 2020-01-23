@@ -3,9 +3,13 @@ There are some people at Qiita.
 
 https://github.com/kamata1729
 
+https://github.com/t4i5uKE
+
 https://github.com/hikarin522
 
 https://github.com/sisidovski
+
+https://github.com/Darekare
 
 https://github.com/Hiroki-IT
 
@@ -120,6 +124,8 @@ https://github.com/masagoto1983
 https://github.com/masagoto1983
 
 https://github.com/tea-red
+
+https://github.com/bahaki386
 
 https://github.com/okumurakengo
 
@@ -300,6 +306,9 @@ https://github.com/Tomato27/ScatterNet-Keras
 
 https://github.com/popo0323/mastodon
 
+## mruby
+https://github.com/bahaki386/mruby
+
 ## css
 https://github.com/haruKazuchi/pseudoclass
 
@@ -329,6 +338,8 @@ https://github.com/noritakaIzumi/mongodb_tutorial
 https://github.com/okumurakengo/console-tetoris
 
 https://github.com/antibec/haikudeptest
+
+https://github.com/t4i5uKE/docker-nuxt-typescript
 
 ## C#
 https://github.com/y-hama/SpkNeu
