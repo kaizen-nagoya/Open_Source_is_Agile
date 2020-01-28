@@ -15,6 +15,8 @@ https://github.com/Darekare
 
 https://github.com/ducdongmg
 
+https://github.com/keito-jp
+
 https://github.com/Hiroki-IT
 
 https://github.com/Tomato27
@@ -346,6 +348,8 @@ https://github.com/okumurakengo/console-tetoris
 https://github.com/antibec/haikudeptest
 
 https://github.com/t4i5uKE/docker-nuxt-typescript
+
+https://github.com/keito-jp/ts-jsvalidator
 
 ## C#
 https://github.com/y-hama/SpkNeu
