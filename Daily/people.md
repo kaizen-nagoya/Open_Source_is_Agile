@@ -13,6 +13,8 @@ https://github.com/sisidovski
 
 https://github.com/Darekare
 
+https://github.com/ducdongmg
+
 https://github.com/Hiroki-IT
 
 https://github.com/Tomato27
@@ -260,6 +262,8 @@ https://github.com/masagoto1983/Zensho_Kentei
 ## go
 
 https://github.com/hrkt/greetings-server
+
+https://github.com/ducdongmg/hugo
 
 ## shell
 
