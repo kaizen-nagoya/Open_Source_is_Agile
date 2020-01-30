@@ -7,6 +7,12 @@ https://github.com/t4i5uKE
 
 https://github.com/hikarin522
 
+https://github.com/gena7
+
+https://github.com/Tatsuya-8888
+
+https://github.com/KominamiYuto
+
 https://github.com/licht
 
 https://github.com/sisidovski
@@ -310,6 +316,8 @@ https://github.com/moochi/demadatter
 
 https://github.com/Tomato27/ScatterNet-Keras
 
+https://github.com/gena7/dropbox-api
+
 ## ruby
 
 https://github.com/popo0323/mastodon
@@ -331,6 +339,8 @@ https://github.com/shmyGlass/OTGanttChartKit
 
 https://github.com/edasan0308/FlashAir
 
+https://github.com/KominamiYuto/getVirtualCoinRate
+
 ## javascript
 
 https://github.com/coa00/pizas
@@ -340,6 +350,8 @@ https://github.com/antibec/haikudeptest
 https://github.com/ryotak3/firepresso
 
 https://github.com/noritakaIzumi/mongodb_tutorial
+
+https://github.com/Tatsuya-8888/lets-get-arrested
 
 ## typescript
 
