@@ -3,11 +3,19 @@ There are some people at Qiita.
 
 https://github.com/kamata1729
 
+https://github.com/u7693
+
+https://github.com/Myagami
+
+https://github.com/kanpon2322
+
 https://github.com/t4i5uKE
 
 https://github.com/hikarin522
 
 https://github.com/gena7
+
+https://github.com/t-asa2000
 
 https://github.com/Tatsuya-8888
 
@@ -296,7 +304,7 @@ https://github.com/ogikubonemui/49_LearnSNS
 
 https://github.com/80pc/_s
 
-
+https://github.com/t-asa2000/wordpress_sqlite
 
 ## python
 
@@ -380,6 +388,12 @@ https://github.com/no6link/hinawaju20160222_v001
 https://github.com/yujiyuji0610/Firmware
 
 https://github.com/Johannyjm/tensorflow/tree/master/tensorflow
+
+https://github.com/Myagami/simutrans
+
+### rust
+
+https://github.com/u7693/servo
 
 ### coq
 https://github.com/suharahiromichi/coq
