@@ -15,6 +15,8 @@ https://github.com/hikarin522
 
 https://github.com/gena7
 
+https://github.com/Zion693
+
 https://github.com/t-asa2000
 
 https://github.com/Tatsuya-8888
@@ -325,6 +327,8 @@ https://github.com/moochi/demadatter
 https://github.com/Tomato27/ScatterNet-Keras
 
 https://github.com/gena7/dropbox-api
+
+https://github.com/Zion693/python-lesson
 
 ## ruby
 
