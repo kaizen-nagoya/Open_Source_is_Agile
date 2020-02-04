@@ -3,3 +3,8 @@ https://jp.quora.com/unanswered/docker-ha-nani-ga-sugoi-no-desu-ka?__filter__=al
 
 
 の答えを作成予定。
+
+それまで、仮想環境は値段が高い割に、痒いところに手が届かず、できることとできないことがわからずに使用を断念することがありました。
+dockerは
+
+
