@@ -5,6 +5,12 @@ https://github.com/kamata1729
 
 https://github.com/u7693
 
+https://github.com/ibuki2003
+
+https://github.com/Tetsunori-Mitarai
+
+https://github.com/gakkyTaihasoeru
+
 https://github.com/Myagami
 
 https://github.com/kanpon2322
@@ -308,6 +314,8 @@ https://github.com/80pc/_s
 
 https://github.com/t-asa2000/wordpress_sqlite
 
+https://github.com/Tetsunori-Mitarai/cphalcon
+
 ## python
 
 https://github.com/papinianus/botocore
@@ -365,6 +373,8 @@ https://github.com/noritakaIzumi/mongodb_tutorial
 
 https://github.com/Tatsuya-8888/lets-get-arrested
 
+https://github.com/gakkyTaihasoeru/assessment
+
 ## typescript
 
 https://github.com/okumurakengo/console-tetoris
@@ -390,6 +400,8 @@ https://github.com/PharaohKJ/3d-game-shaders-for-beginners
 https://github.com/no6link/hinawaju20160222_v001
 
 https://github.com/yujiyuji0610/Firmware
+
+https://github.com/ibuki2003/lmms
 
 https://github.com/Johannyjm/tensorflow/tree/master/tensorflow
 
