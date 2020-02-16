@@ -16,3 +16,6 @@ https://qiita.com/kaizen_nagoya/items/8c341e69233cb32f6275
 
 プログラマの思い込みの激しさは強みであって弱点ではない３つの理由
 https://qiita.com/kaizen_nagoya/items/bc5dd86e414de402ec29
+
+与件解析(data analysis)入門
+https://qiita.com/kaizen_nagoya/items/d9474c3bdb8ea0029bee
