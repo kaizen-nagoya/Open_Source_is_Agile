@@ -1,6 +1,8 @@
 # people 
 There are some people at Qiita.
 
+https://github.com/hi-takayama
+
 https://github.com/kamata1729
 
 https://github.com/u7693
