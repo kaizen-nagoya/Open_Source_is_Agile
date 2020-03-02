@@ -1,6 +1,8 @@
 # people 
 There are some people at Qiita.
 
+https://github.com/mrsekut
+
 https://github.com/hi-takayama
 
 https://github.com/kamata1729
@@ -426,4 +428,8 @@ https://github.com/sashisusesouyu/DelaunayTriangleByProcessing
 
 ## kotlin
 https://github.com/nori5/ramen-timer
+
+## haskell
+https://github.com/mrsekut/compiler
+
 
