@@ -1,6 +1,12 @@
 # people 
 There are some people at Qiita.
 
+https://github.com/ngtkana
+
+https://github.com/yoya
+
+https://github.com/n01e0
+
 https://github.com/mrsekut
 
 https://github.com/hi-takayama
@@ -411,9 +417,16 @@ https://github.com/Johannyjm/tensorflow/tree/master/tensorflow
 
 https://github.com/Myagami/simutrans
 
+## C
+https://github.com/yoya/ImageMagick
+
 ### rust
 
 https://github.com/u7693/servo
+
+https://github.com/n01e0/rush
+
+https://github.com/ngtkana/autolibrary
 
 ### coq
 https://github.com/suharahiromichi/coq
