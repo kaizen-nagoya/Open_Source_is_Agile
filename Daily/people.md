@@ -1,6 +1,10 @@
 # people 
 There are some people at Qiita.
 
+https://github.com/ichiron
+
+https://github.com/MotleyWolf
+
 https://github.com/ngtkana
 
 https://github.com/yoya
