@@ -1,6 +1,8 @@
 # people 
 There are some people at Qiita.
 
+https://qiita.com/SsS136
+
 https://github.com/ichiron
 
 https://github.com/MotleyWolf
@@ -296,6 +298,9 @@ https://github.com/Fivro/Password-Generator
 https://github.com/mkt120/quickstart-android
 
 https://github.com/masagoto1983/Zensho_Kentei
+
+## css
+https://github.com/SsS136/SsS136.github.io
 
 ## go
 
