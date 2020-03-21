@@ -1,7 +1,9 @@
 # people 
 There are some people at Qiita.
 
-https://qiita.com/SsS136
+https://github.com/motorcontrolman
+
+https://github.com/SsS136
 
 https://github.com/ichiron
 
@@ -454,4 +456,6 @@ https://github.com/nori5/ramen-timer
 ## haskell
 https://github.com/mrsekut/compiler
 
+## tex
+https://github.com/motorcontrolman/getOlCalendar
 
