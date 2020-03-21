@@ -1,6 +1,8 @@
 # people 
 There are some people at Qiita.
 
+https://github.com/Akira-Isegawa
+
 https://github.com/motorcontrolman
 
 https://github.com/SsS136
