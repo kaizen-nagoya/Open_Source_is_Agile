@@ -1,6 +1,8 @@
 # people 
 There are some people at Qiita.
 
+https://github.com/shimaMatz
+
 https://github.com/Akira-Isegawa
 
 https://github.com/motorcontrolman
@@ -338,6 +340,8 @@ https://github.com/80pc/_s
 https://github.com/t-asa2000/wordpress_sqlite
 
 https://github.com/Tetsunori-Mitarai/cphalcon
+
+https://github.com/shimaMatz/weird_engineer
 
 ## python
 
