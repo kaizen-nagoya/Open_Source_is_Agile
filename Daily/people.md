@@ -1,6 +1,8 @@
 # people 
 There are some people at Qiita.
 
+https://github.com/s-hayashi0831
+
 https://github.com/shimaMatz
 
 https://github.com/Akira-Isegawa
@@ -464,4 +466,7 @@ https://github.com/mrsekut/compiler
 
 ## tex
 https://github.com/motorcontrolman/getOlCalendar
+
+## scala
+https://github.com/s-hayashi0831/gitbucket
 
