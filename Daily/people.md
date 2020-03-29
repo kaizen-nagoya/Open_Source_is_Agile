@@ -1,6 +1,8 @@
 # people 
 There are some people at Qiita.
 
+https://github.com/kotai2003
+
 https://github.com/s-hayashi0831
 
 https://github.com/shimaMatz
@@ -366,6 +368,10 @@ https://github.com/Tomato27/ScatterNet-Keras
 https://github.com/gena7/dropbox-api
 
 https://github.com/Zion693/python-lesson
+
+
+### jupyter notebook
+https://github.com/kotai2003/deep-learning-notes
 
 ## ruby
 
