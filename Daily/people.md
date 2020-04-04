@@ -1,6 +1,8 @@
 # people 
 There are some people at Qiita.
 
+https://github.com/nodokaodayaka
+
 https://github.com/yukihisasoga
 
 https://github.com/mahbou3
@@ -415,6 +417,9 @@ https://github.com/noritakaIzumi/mongodb_tutorial
 https://github.com/Tatsuya-8888/lets-get-arrested
 
 https://github.com/gakkyTaihasoeru/assessment
+
+### vue
+https://github.com/nodokaodayaka/covid19
 
 ## typescript
 
