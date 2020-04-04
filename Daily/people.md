@@ -1,6 +1,8 @@
 # people 
 There are some people at Qiita.
 
+https://github.com/yukihisasoga
+
 https://github.com/mahbou3
 
 https://github.com/kotai2003
