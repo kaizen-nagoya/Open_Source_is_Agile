@@ -1,6 +1,8 @@
 # people 
 There are some people at Qiita.
 
+https://github.com/d2verb
+
 https://github.com/nodokaodayaka
 
 https://github.com/yukihisasoga
@@ -464,7 +466,10 @@ https://github.com/n01e0/rush
 
 https://github.com/ngtkana/autolibrary
 
-### coq
+### vlang
+https://github.com/d2verb/v
+
+## coq
 https://github.com/suharahiromichi/coq
 
 ## athrill
