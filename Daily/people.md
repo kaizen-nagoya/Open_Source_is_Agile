@@ -1,6 +1,14 @@
 # people 
 There are some people at Qiita.
 
+https://github.com/murkbGitH
+
+https://github.com/Toyo-Daichi
+
+https://github.com/Y-houselove
+
+https://github.com/tsuyoshioshima
+
 https://github.com/blackwarabi
 
 https://github.com/enkatsu
@@ -373,6 +381,8 @@ https://github.com/shimaMatz/weird_engineer
 
 ## python
 
+https://github.com/Toyo-Daichi/Basemap_tool_ver1.0
+
 https://github.com/blackwarabi/python_souces
 
 https://github.com/papinianus/botocore
@@ -425,6 +435,10 @@ https://github.com/edasan0308/FlashAir
 https://github.com/KominamiYuto/getVirtualCoinRate
 
 ## javascript
+
+https://github.com/murkbGitH/jiji2
+
+https://github.com/tsuyoshioshima/assessment
 
 https://github.com/enkatsu/study-in-scarlet
 
