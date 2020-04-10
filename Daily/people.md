@@ -1,6 +1,12 @@
 # people 
 There are some people at Qiita.
 
+https://github.com/t-nagaoka-git
+
+https://github.com/tchisaka
+
+https://github.com/tohru2
+
 https://github.com/d2verb
 
 https://github.com/nodokaodayaka
@@ -320,6 +326,10 @@ https://github.com/masagoto1983/Zensho_Kentei
 ## css
 https://github.com/SsS136/SsS136.github.io
 
+## html
+
+https://github.com/t-nagaoka-git/mao-seminar
+
 ## go
 
 https://github.com/hrkt/greetings-server
@@ -327,6 +337,8 @@ https://github.com/hrkt/greetings-server
 https://github.com/ducdongmg/hugo
 
 ## shell
+
+https://github.com/tchisaka/Ansible
 
 https://github.com/Neos21/dotfiles
 
