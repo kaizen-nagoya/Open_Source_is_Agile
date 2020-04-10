@@ -1,6 +1,10 @@
 # people 
 There are some people at Qiita.
 
+https://github.com/blackwarabi
+
+https://github.com/enkatsu
+
 https://github.com/t-nagaoka-git
 
 https://github.com/tchisaka
@@ -369,6 +373,8 @@ https://github.com/shimaMatz/weird_engineer
 
 ## python
 
+https://github.com/blackwarabi/python_souces
+
 https://github.com/papinianus/botocore
 
 https://github.com/kamata1729/arxiv-crawler
@@ -419,6 +425,8 @@ https://github.com/edasan0308/FlashAir
 https://github.com/KominamiYuto/getVirtualCoinRate
 
 ## javascript
+
+https://github.com/enkatsu/study-in-scarlet
 
 https://github.com/coa00/pizas
 
