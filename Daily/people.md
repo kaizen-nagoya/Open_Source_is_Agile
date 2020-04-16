@@ -1,6 +1,14 @@
 # people 
 There are some people at Qiita.
 
+https://github.com/Kimiko2019
+
+https://github.com/Kawadi
+
+https://github.com/gofurukawa
+
+https://github.com/yuuki76
+
 https://github.com/murkbGitH
 
 https://github.com/Toyo-Daichi
@@ -335,6 +343,9 @@ https://github.com/mkt120/quickstart-android
 
 https://github.com/masagoto1983/Zensho_Kentei
 
+## git
+https://github.com/Kimiko2019/mao-seminar
+
 ## css
 https://github.com/SsS136/SsS136.github.io
 
@@ -414,6 +425,8 @@ https://github.com/kotai2003/deep-learning-notes
 ## ruby
 
 https://github.com/popo0323/mastodon
+
+https://github.com/Kawadi/BookShelf
 
 ## mruby
 https://github.com/bahaki386/mruby
