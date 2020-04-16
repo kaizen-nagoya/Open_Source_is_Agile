@@ -1,6 +1,14 @@
 # people 
 There are some people at Qiita.
 
+https://github.com/5893
+
+https://github.com/TsumaR
+
+https://github.com/sh-t02
+
+https://github.com/wtr850
+
 https://github.com/Kimiko2019
 
 https://github.com/Kawadi
@@ -392,6 +400,10 @@ https://github.com/shimaMatz/weird_engineer
 
 ## python
 
+https://github.com/5893/FullStackEngineerChallenge
+
+https://github.com/TsumaR/memo
+
 https://github.com/Toyo-Daichi/Basemap_tool_ver1.0
 
 https://github.com/blackwarabi/python_souces
@@ -488,6 +500,9 @@ https://github.com/NaaOs/TaskManager
 https://github.com/hikarin522/GlassIt-VSC
 
 ## C++
+
+https://github.com/wtr850/Arduino_works
+
 https://github.com/f0reachARR/inputstream.adaptive
 
 https://github.com/PharaohKJ/3d-game-shaders-for-beginners
