@@ -1,6 +1,12 @@
 # people 
 There are some people at Qiita.
 
+https://github.com/nidecta
+
+https://github.com/YAMAHERO
+
+https://github.com/toreona
+
 https://github.com/5893
 
 https://github.com/TsumaR
