@@ -1,6 +1,8 @@
 # people 
 There are some people at Qiita.
 
+https://github.com/raspi0124
+
 https://github.com/gplains
 
 https://github.com/nidecta
@@ -407,6 +409,8 @@ https://github.com/Tetsunori-Mitarai/cphalcon
 https://github.com/shimaMatz/weird_engineer
 
 ## python
+
+https://github.com/raspi0124/eatte
 
 https://github.com/gplains/glucometerutils
 
