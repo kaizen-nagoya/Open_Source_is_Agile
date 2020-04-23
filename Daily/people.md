@@ -1,6 +1,16 @@
 # people 
 There are some people at Qiita.
 
+https://github.com/mihirogi
+
+https://github.com/kingtosh
+
+https://github.com/Maple610
+
+https://github.com/okitat
+
+https://github.com/matsuikosuke
+
 https://github.com/Komatsuma
 
 https://github.com/standard-software
@@ -479,6 +489,8 @@ https://github.com/KominamiYuto/getVirtualCoinRate
 
 ## javascript
 
+https://github.com/okitat/hamnavi
+
 https://github.com/Komatsuma/shinjuku-mokumoku
 
 https://github.com/standard-software/partsjs
@@ -505,6 +517,8 @@ https://github.com/gakkyTaihasoeru/assessment
 https://github.com/nodokaodayaka/covid19
 
 ## typescript
+
+https://github.com/mihirogi/my-website
 
 https://github.com/okumurakengo/console-tetoris
 
@@ -542,6 +556,10 @@ https://github.com/Myagami/simutrans
 ## C
 https://github.com/yoya/ImageMagick
 
+### verilog
+
+https://github.com/matsuikosuke/mips_practice
+
 ### rust
 
 https://github.com/u7693/servo
@@ -575,4 +593,8 @@ https://github.com/motorcontrolman/getOlCalendar
 
 ## scala
 https://github.com/s-hayashi0831/gitbucket
+
+## swift
+
+https://github.com/kingtosh/iina
 
