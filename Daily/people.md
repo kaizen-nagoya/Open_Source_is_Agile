@@ -1,6 +1,8 @@
 # people 
 There are some people at Qiita.
 
+https://github.com/Komatsuma
+
 https://github.com/standard-software
 
 https://github.com/raspi0124
@@ -476,6 +478,8 @@ https://github.com/edasan0308/FlashAir
 https://github.com/KominamiYuto/getVirtualCoinRate
 
 ## javascript
+
+https://github.com/Komatsuma/shinjuku-mokumoku
 
 https://github.com/standard-software/partsjs
 
