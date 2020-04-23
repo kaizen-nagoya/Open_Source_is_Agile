@@ -1,6 +1,8 @@
 # people 
 There are some people at Qiita.
 
+https://github.com/pochiMasahiro
+
 https://github.com/mihirogi
 
 https://github.com/kingtosh
@@ -555,6 +557,8 @@ https://github.com/Myagami/simutrans
 
 ## C
 https://github.com/yoya/ImageMagick
+
+https://github.com/pochiMasahiro/tempcontrol
 
 ### verilog
 
