@@ -1,6 +1,8 @@
 # people 
 There are some people at Qiita.
 
+https://github.com/kazy0324
+
 https://github.com/pochiMasahiro
 
 https://github.com/mihirogi
@@ -602,3 +604,6 @@ https://github.com/s-hayashi0831/gitbucket
 
 https://github.com/kingtosh/iina
 
+# R
+
+https://github.com/kazy0324/cooccurrence_analysis_with_r
