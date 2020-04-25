@@ -1,6 +1,8 @@
 # people 
 There are some people at Qiita.
 
+https://github.com/kabosusoba
+
 https://github.com/ayukatmajiko
 
 https://github.com/kazy0324
