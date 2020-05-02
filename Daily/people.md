@@ -1,6 +1,8 @@
 # people 
 There are some people at Qiita.
 
+https://github.com/sonimasa
+
 https://github.com/oriverk
 
 https://github.com/yoshigion
@@ -402,6 +404,8 @@ https://github.com/Kimiko2019/mao-seminar
 https://github.com/SsS136/SsS136.github.io
 
 ## html
+
+https://github.com/sonimasa/gti_lesson_bak
 
 https://github.com/t-nagaoka-git/mao-seminar
 
