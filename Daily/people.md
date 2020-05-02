@@ -1,6 +1,14 @@
 # people 
 There are some people at Qiita.
 
+https://github.com/soh0930laboratorian
+
+https://github.com/karon9
+
+https://github.com/sskynoba
+
+https://github.com/ONZI75
+
 https://github.com/sonimasa
 
 https://github.com/oriverk
@@ -452,6 +460,8 @@ https://github.com/Tetsunori-Mitarai/cphalcon
 https://github.com/shimaMatz/weird_engineer
 
 ## python
+
+https://github.com/karon9/Blackjack-strategy
 
 https://github.com/raspi0124/eatte
 
