@@ -1,6 +1,8 @@
 # people 
 There are some people at Qiita.
 
+https://github.com/yoshigion
+
 https://github.com/hi5san
 
 https://github.com/ryota-ooishi
@@ -537,6 +539,8 @@ https://github.com/gakkyTaihasoeru/assessment
 
 ### vue
 https://github.com/nodokaodayaka/covid19
+
+https://github.com/yoshigion/ant-design-vue
 
 ## typescript
 
