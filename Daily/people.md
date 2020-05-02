@@ -1,6 +1,8 @@
 # people 
 There are some people at Qiita.
 
+https://github.com/oriverk
+
 https://github.com/yoshigion
 
 https://github.com/hi5san
@@ -402,6 +404,8 @@ https://github.com/SsS136/SsS136.github.io
 ## html
 
 https://github.com/t-nagaoka-git/mao-seminar
+
+https://github.com/oriverk/oriverk.github.io
 
 ## go
 
