@@ -1,6 +1,14 @@
 # people 
 There are some people at Qiita.
 
+https://github.com/hi5san
+
+https://github.com/ryota-ooishi
+
+https://github.com/hiro-sawano
+
+https://github.com/tsukabo
+
 https://github.com/kabosusoba
 
 https://github.com/ayukatmajiko
@@ -416,6 +424,9 @@ https://github.com/unhappychoice/Norimaki
 https://github.com/nori5/ramen-timer
 
 ## PHP
+
+https://github.com/tsukabo/Contents-file
+
 https://github.com/sisidovski/CombinationalExplosion
 
 https://github.com/porori/AmazonWebServicesBundle
@@ -487,6 +498,9 @@ https://github.com/sustny/GAS_public
 
 
 ## java
+
+https://github.com/hi5san/openj9
+
 https://github.com/ToshinoriT/wt-commons
 
 https://github.com/shmyGlass/OTGanttChartKit
