@@ -1,6 +1,8 @@
 # people 
 There are some people at Qiita.
 
+https://github.com/hidemaru4869
+
 https://github.com/soh0930laboratorian
 
 https://github.com/karon9
