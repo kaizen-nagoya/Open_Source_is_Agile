@@ -1,6 +1,8 @@
 # people 
 There are some people at Qiita.
 
+https://github.com/intermezzo-fr
+
 https://github.com/hidemaru4869
 
 https://github.com/soh0930laboratorian
@@ -641,6 +643,8 @@ https://github.com/motorcontrolman/getOlCalendar
 
 ## scala
 https://github.com/s-hayashi0831/gitbucket
+
+https://github.com/intermezzo-fr/spark
 
 ## swift
 
