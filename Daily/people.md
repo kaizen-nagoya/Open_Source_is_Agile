@@ -1,6 +1,8 @@
 # people 
 There are some people at Qiita.
 
+https://github.com/jin237
+
 https://github.com/intermezzo-fr
 
 https://github.com/hidemaru4869
@@ -413,6 +415,9 @@ https://github.com/masagoto1983/Zensho_Kentei
 https://github.com/Kimiko2019/mao-seminar
 
 ## css
+
+https://github.com/jin237/suichu2
+
 https://github.com/SsS136/SsS136.github.io
 
 ## html
