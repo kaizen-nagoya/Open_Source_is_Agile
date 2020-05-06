@@ -1,6 +1,8 @@
 # people 
 There are some people at Qiita.
 
+https://github.com/komiyakomiyakomiya
+
 https://github.com/jin237
 
 https://github.com/intermezzo-fr
@@ -469,6 +471,8 @@ https://github.com/Tetsunori-Mitarai/cphalcon
 https://github.com/shimaMatz/weird_engineer
 
 ## python
+
+https://github.com/komiyakomiyakomiya/rescued-cat-twitter-bot
 
 https://github.com/karon9/Blackjack-strategy
 
