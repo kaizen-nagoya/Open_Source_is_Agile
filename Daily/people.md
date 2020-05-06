@@ -1,6 +1,10 @@
 # people 
 There are some people at Qiita.
 
+https://github.com/velengel
+
+https://github.com/yuukiyouki
+
 https://github.com/komiyakomiyakomiya
 
 https://github.com/jin237
@@ -472,6 +476,8 @@ https://github.com/shimaMatz/weird_engineer
 
 ## python
 
+https://github.com/yuukiyouki/docker-lambda-template
+
 https://github.com/komiyakomiyakomiya/rescued-cat-twitter-bot
 
 https://github.com/karon9/Blackjack-strategy
@@ -586,6 +592,9 @@ https://github.com/t4i5uKE/docker-nuxt-typescript
 https://github.com/keito-jp/ts-jsvalidator
 
 ## C#
+
+https://github.com/velengel/waremono
+
 https://github.com/y-hama/SpkNeu
 
 https://github.com/NaaOs/TaskManager
