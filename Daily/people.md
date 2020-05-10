@@ -1,6 +1,12 @@
 # people 
 There are some people at Qiita.
 
+https://github.com/RyosukeTokunaga
+
+https://github.com/sakon0410
+
+https://github.com/susue
+
 https://github.com/masa1203
 
 https://github.com/velengel
@@ -526,6 +532,8 @@ https://github.com/kotai2003/deep-learning-notes
 
 ## ruby
 
+https://github.com/susue/railstutorial_sample_app
+
 https://github.com/popo0323/mastodon
 
 https://github.com/Kawadi/BookShelf
@@ -606,6 +614,8 @@ https://github.com/NaaOs/TaskManager
 https://github.com/hikarin522/GlassIt-VSC
 
 ## C++
+
+https://github.com/sakon0410/openvr
 
 https://github.com/wtr850/Arduino_works
 
