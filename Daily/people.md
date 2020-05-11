@@ -1,7 +1,7 @@
 # people 
 There are some people at Qiita.
 
-https://github.com/sntulix?tab=repositories
+https://github.com/sntulix
 
 https://github.com/RyosukeTokunaga
 
