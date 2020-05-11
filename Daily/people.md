@@ -1,6 +1,8 @@
 # people 
 There are some people at Qiita.
 
+https://github.com/sntulix?tab=repositories
+
 https://github.com/RyosukeTokunaga
 
 https://github.com/sakon0410
@@ -443,6 +445,8 @@ https://github.com/t-nagaoka-git/mao-seminar
 https://github.com/oriverk/oriverk.github.io
 
 ## go
+
+https://github.com/sntulix/go-coreutils
 
 https://github.com/hrkt/greetings-server
 
