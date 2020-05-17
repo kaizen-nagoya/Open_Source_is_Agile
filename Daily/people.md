@@ -1,6 +1,14 @@
 # people 
 There are some people at Qiita.
 
+https://github.com/glassmonkey
+
+https://github.com/sogaoh
+
+https://github.com/shucream
+
+https://github.com/ASadSexyImp
+
 https://github.com/yuki0920
 
 https://github.com/strnh
@@ -450,6 +458,8 @@ https://github.com/oriverk/oriverk.github.io
 
 ## go
 
+https://github.com/sogaoh/terraform-provider-aws
+
 https://github.com/sntulix/go-coreutils
 
 https://github.com/hrkt/greetings-server
@@ -467,6 +477,8 @@ https://github.com/Neos21/dotfiles
 https://github.com/Hiroki-IT/tech-notebook
 
 ## kotlin
+
+https://github.com/ASadSexyImp/SNSNS
 
 https://github.com/unhappychoice/Norimaki
 
@@ -540,6 +552,8 @@ https://github.com/kotai2003/deep-learning-notes
 
 ## ruby
 
+https://github.com/shucream/shutock
+
 https://github.com/yuki0920/vuejs
 
 https://github.com/susue/railstutorial_sample_app
@@ -571,6 +585,8 @@ https://github.com/edasan0308/FlashAir
 https://github.com/KominamiYuto/getVirtualCoinRate
 
 ## javascript
+
+https://github.com/glassmonkey/vscode-reveal
 
 https://github.com/okitat/hamnavi
 
