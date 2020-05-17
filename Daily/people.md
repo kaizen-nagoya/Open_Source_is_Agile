@@ -1,6 +1,10 @@
 # people 
 There are some people at Qiita.
 
+https://github.com/samOnodera
+
+https://github.com/yossan
+
 https://github.com/glassmonkey
 
 https://github.com/sogaoh
@@ -486,6 +490,8 @@ https://github.com/nori5/ramen-timer
 
 ## PHP
 
+https://github.com/yossan/testlink-code
+
 https://github.com/tsukabo/Contents-file
 
 https://github.com/sisidovski/CombinationalExplosion
@@ -640,6 +646,8 @@ https://github.com/NaaOs/TaskManager
 https://github.com/hikarin522/GlassIt-VSC
 
 ## C++
+
+https://github.com/samOnodera/RumiCar
 
 https://github.com/strnh/firebird
 
