@@ -1,6 +1,10 @@
 # people 
 There are some people at Qiita.
 
+https://github.com/watarus0208
+
+https://github.com/shinjism
+
 https://github.com/samOnodera
 
 https://github.com/yossan
@@ -554,7 +558,10 @@ https://github.com/kotai2003/20180928_Study
 
 
 ### jupyter notebook
+
 https://github.com/kotai2003/deep-learning-notes
+
+https://github.com/watarus0208/titanic
 
 ## ruby
 
@@ -636,6 +643,8 @@ https://github.com/t4i5uKE/docker-nuxt-typescript
 https://github.com/keito-jp/ts-jsvalidator
 
 ## C#
+
+https://github.com/shinjism/ARFoundationChecker
 
 https://github.com/velengel/waremono
 
