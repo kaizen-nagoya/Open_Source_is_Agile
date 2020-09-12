@@ -18,3 +18,13 @@ https://qiita.com/kaizen_nagoya/items/40b8557a20e8d75d62b5
 | D | 7 | C言語/C++に対する誤解、曲解、無理解、爽快。https://qiita.com/kaizen_nagoya/items/3f3992c9722c1cee2e3a | Misunderstanding, twist, unappreciation or reviving on C and/or C++ Languages | 56 | 7079 | 126.4 | 20180325 | 51 | 5467 | 107.1 | 5 | 1612 | 19.3 |
 | E | ー | 英語(3) 仮説・検証(88)用語の衝突(用語・用例募集中)https://qiita.com/kaizen_nagoya/items/6a8eb7ffaa45eeb16624 | Term clashes (terms and examples are being requested) | 51 | 4976 | 97.5 | 20190525 | - | - | - | - | - | - |
 | F | 9 | dockerで機械学習(3) with anaconda(3)「直感Deep Learning」Antonio Gulli、Sujit Pal著 https://qiita.com/kaizen_nagoya/items/483ae708c71c88419c32 | machine learning on docker with anaconda(3) "Deep Learning with Keras" by Antonio Gulli and Sujit Pal | 37 | 21098 | 570.2 | 20180922 | 34 | 10192 | 299.7 | 3 | 10906 | 270.5 |
+
+
+読み手をイライラさせない技術記事などを書くために最低限守ったほうがいいこと
+https://qiita.com/freddi_/items/fe8e878187f315d80d87
+
+でイライラする256個のこと。
+
+
+
+
