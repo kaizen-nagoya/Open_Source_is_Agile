@@ -1,3 +1,87 @@
+Qiita限定記事
+
+４４年の名古屋市職員プログラマを辞して
+https://qiita.com/kaizen_nagoya/private/ff5700599677df73eaa8
+プログラミングと関係ない
+
+新型コロナウイルス感染症対策専門家会議関連文献調査
+https://qiita.com/kaizen_nagoya/private/63d7df2ee7b44a35cbb6
+プログラミングと関係ない
+
+遺伝子系の論文の検索・入手方法。
+https://qiita.com/kaizen_nagoya/private/de88eee66374004b6141
+スパムの疑い
+
+「コンピュータプロトコルの設計法」に学ぶ
+https://qiita.com/kaizen_nagoya/private/a55ff39bba4ac3cb9069
+スパムの疑い
+
+機械翻訳3ヶ国語間変換で精度確認（２）
+https://qiita.com/kaizen_nagoya/private/17f101a2feccab0124a7
+スパムの疑い
+
+機械翻訳3ヶ国語間変換で精度確認
+https://qiita.com/kaizen_nagoya/private/0d0b9b9325bc8d4a5b63
+スパムの疑い
+
+triennale　を　調べる
+https://qiita.com/kaizen_nagoya/private/79e5a11536b9d0b89586
+スパムの疑い
+
+物理学古典論文叢書
+https://qiita.com/kaizen_nagoya/private/95e6f6e3c4735c619f2d
+スパムの疑い
+
+計算機と戦争
+https://qiita.com/kaizen_nagoya/private/9152486837c6ab05e242
+スパムの疑い
+
+物理現象の数学的諸原理
+https://qiita.com/kaizen_nagoya/private/2550668a2d13036dea25
+スパムの疑い
+
+仮説・検証（137）ゴッホに見るジャポニズムと日本のIT産業が学ぶとよいこと
+https://qiita.com/kaizen_nagoya/private/5f5e9400da55e0b0fe4f
+スパムの疑い
+
+染色体から見える世界 小原 良孝
+https://qiita.com/kaizen_nagoya/private/a861ed8714a1c3cf587f
+プログラミングと関係ない
+
+前向きとpositiveの違い
+https://qiita.com/kaizen_nagoya/private/3d4ed49d609bfd8f594c
+スパムの疑い
+
+仮説・検証（140）与謝野晶子をITする
+https://qiita.com/kaizen_nagoya/private/10e07c9b7e99ffe92278
+スパムの疑い
+
+「京アニ品質」考
+https://qiita.com/kaizen_nagoya/private/beaf36df821677cde20b
+プログラミングと関係ない
+
+プログラマが知っているとよいフランス料理のマナー
+https://qiita.com/kaizen_nagoya/private/8145fe72e5d87740eab7
+プログラミングと関係ない
+
+量子計算機　arXiv掲載　西森 秀稔　論文　参考文献一覧
+https://qiita.com/kaizen_nagoya/private/63cd1c6cf7a07b0e9e6f
+スパムの疑い
+
+YouTube動画による「T-QARDの日々」 量子アニーリング・量子コンピュータへの入口
+https://qiita.com/kaizen_nagoya/private/fb869e5f38ae354e6294
+スパムの疑い
+
+日本語（９）日英　頻出単語 on プログラマ
+https://qiita.com/kaizen_nagoya/private/f6088902074a84145298
+スパムの疑い
+
+仮説・検証（162）「人工知能は敵か味方か　ジョン・マルコフ」の読み方
+https://qiita.com/kaizen_nagoya/private/595ce2fb1e933d97080c
+スパムの疑い
+
+
+
 「Qiitaのいろいろランキング2019」への感謝と提案
 https://qiita.com/kaizen_nagoya/items/40b8557a20e8d75d62b5
 
