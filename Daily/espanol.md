@@ -23,7 +23,3 @@ i lo cuentame.
 
 
 
-
-
-
-
