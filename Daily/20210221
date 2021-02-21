@@ -1,0 +1,159 @@
+４４年の名古屋市職員プログラマを辞して
+
+２０２０年３月３１日を持ちまして、４４年間勤務していた名古屋市職員を辞しました。（正式名称は解職）
+
+
+
+本来業務である企業の技術者の方との共同研究をはじめ、
+名古屋市職員のパソコン研究の教科書の作成、
+愛知工業大学と大同大学の学生の卒業研究の指導合計二十年、
+十年間に渡る岐阜大学の大学院の非常勤講師としての集中講義などを担当させていただきました。
+
+仮説・検証（139）新人(学生)を指導するよりも新人(学生)に指導してもらった方が効率的
+https://qiita.com/kaizen_nagoya/items/db993b1536055029f7c8
+仮説・検証（52）プログラミング言語教育のXYZ
+https://qiita.com/kaizen_nagoya/items/1950c5810fb5c0b07be4
+
+また、経済産業省の組み込み中核人材プロジェクトを担当させていただき、トヨタ自動車様、デンソー様、アイシン精機様、アドヴィックス様、三菱電機様、ブラザー工業様、オークマ様、はじめ多くの企業の方にアドバイザになっていただきました。
+
+組み込み中核人材プロジェクトにおける大学等での取り組み
+小川清、斉藤直希、渡部謹二(名古屋市工業研究所)、鵜飼裕之(名古屋工業大学)、速水悟(岐阜大学)
+https://ipsj.ixsq.nii.ac.jp/ej/index.php?action=pages_view_main&active_action=repository_action_common_download&item_id=62565&item_no=1&attribute_id=1&file_no=1&page_id=13&block_id=8
+
+docker (37) Dockerをどっかーらどうやって使えばいいんでしょう。TOPPERS/FMP on RaspberryPi with Macintosh編 ５つの関門「名古屋のIoTは名古屋のOSで」
+https://qiita.com/kaizen_nagoya/items/9c46c6da8ceb64d2d7af
+Autosar 資料のまとめ
+https://qiita.com/kaizen_nagoya/items/8511de0e6819dfa1acaf
+
+この事業の検討の際に、JAXA, IPAとの意見交換を行い、両者の主催するクリティカルソフトウェアワークショップのプログラム委員長をさせていただき、自動車関連業界の成果をJAXAに報告することができました。８回のうち２０件ほどの一般講演が、なんらかの形で協力させていただいた発表です。
+また、参加いただいた方からは、特別講演より一般講演の方が技術的に役に立ったという声を何度かいただきました。専門家より学生、特別講演より一般講演という実際に手を動かしている人間の発言の方が、現実味をもって技術者に伝わるということを実感した日々でした。
+
+JAXA/IPA クリティカルソフトウェアワークショップ （WOCS）言語関連発表
+https://qiita.com/kaizen_nagoya/items/3447b1bc4ee6014e6739
+
+名古屋市では1980年頃に二円茶豆という計算機を使った自主研究グループに参加し、個人でもデータ解析で名古屋市の賞をいただきました。
+
+自主研究実践ハンドブック―地方自治体活性化のために (1984年) 
+https://www.amazon.co.jp/dp/B000J78BZA/
+
+転職(1) なぜ経済学徒を辞め、計算機屋になったか（経済学部入学前・入学後・卒業後対応）
+https://qiita.com/kaizen_nagoya/items/06335a1d24c099733f64
+仮説・検証（178）Fラン文系によるFラン文系のためのFラン文系プログラマ /「Fラン文系」でも就職(プログラマ)できる５つの道
+https://qiita.com/kaizen_nagoya/items/c72fa39e3191ea0290df
+
+
+地方のしがないプログラマが著名なプログラマの方々と一緒に仕事をさせていただけるよおになったのは、VZエディタというアセンブラで書かれたエディタの移植を行ってからです。
+
+仮説・検証(115) VZエディタ移植に当たって実施したことと成果
+https://qiita.com/kaizen_nagoya/items/5551be98dcbed8f41949
+「アセンブラへの道」組立語(assembler)・機械語(machine language)・CPU
+https://qiita.com/kaizen_nagoya/items/46f2333c2647b0e692b2
+
+
+国際規格のエディタをはじめ標準化活動に従事させていただきました。C/C++言語を担当されているISO/IEC JTC1SC22とISO/IEC JTC1 SC7のリエゾン担当などもさせていただきました。
+
+技術者として今日まで来れたのは、小学校の絵画部の顧問で油絵の先生の「光を見ろ」という教えと、中学校の技術科の先生の「人のしないことをしろ」という教えを真持ち、５歳の頃から家業の印刷業で手伝ってきた印刷物の校正の仕事が、他の誰にも負けない基礎を作ってきたと感じてきました。
+
+仮説・検証（37）ぼくの先生　プログラマになるまで
+https://qiita.com/kaizen_nagoya/items/53e4bded9fe5f724b3c4
+
+プログラマが知っているとよい色使い(JIS安全色)
+https://qiita.com/kaizen_nagoya/items/cb7eb3199b0b98904a35
+
+Autosar Guidelines C++14 example code compile list(1-169)
+https://qiita.com/kaizen_nagoya/items/8ccbf6675c3494d57a76
+
+20歳代の頃から、ライバルだと思っていたのは同世代のStive JobsとBill Gatesです。
+彼らがやらなかったことは日本語情報処理です。
+文字鏡フォントのホームページを作り、特許の英日の機械翻訳ソフトのパイロットプロジェクトに参加し、日本語語彙体系の白井さんたちが開催している言語処理の研究会に参加し、多言語処理のMuleを開発した電総研の戸村晢さんの研究室の研修生となり、漢字変換をのぞく日本語情報処理のありとあらゆる研究に参加してきました。
+
+日本語（２）文字鏡フォント
+https://qiita.com/kaizen_nagoya/items/64c2ff25271ea8ebf2b0
+
+仮説・検証（53）日本のプログラマが世界で戦える16分野・事例
+https://qiita.com/kaizen_nagoya/items/a7e634a996cdd02bc53b
+
+６４歳になった時に立てた目標は達成できませんでした。
+
+64bitCPUへの道 and/or 64歳の決意(0)
+https://qiita.com/kaizen_nagoya/items/cfb5ffa24ded23ab3f60
+
+代わりに、６５歳に別の目標を立てました。
+
+転職(16) ６５歳からのプログラミング入門
+https://qiita.com/kaizen_nagoya/items/1561f910c275b22d7c9f
+
+こちらも達成できていません。転職の方はできて、無事３日過ごすことができました。
+
+
+皆様、本当にありがとうございました。
+今回の記念に次の記事を贈り物として書かせていただきました。
+人生で影響を受けた本100冊
+https://qiita.com/kaizen_nagoya/items/16af53acbb147a94172e
+現在、何冊既にお読みいただいているかを、上記記事へのコメント欄または下記facebook spa-nagoya質問票にお答えいただけると幸いです。
+https://www.facebook.com/groups/341033872604382/
+
+
+定年退職時には、名古屋市役所マイコンクラブのメンバである名古屋港管理組合の森田伸二さんが電子国土賞を受賞され、記念講演をしていただいています。
+
+>ソフトウェア講演会　なごやからソフトウェアが始まる 
+名古屋地区では、JAXA/IPAのクリティカルソフトウェアワークショップ、TOPPERSプロジェクトなど日本における先端的ソフトウェア開発・評価の活動で中心的役割を果たされています。
+2015年1/20に第１２回クリティカルソフトウェアワークショップでご講演いただいた名古屋大学の山本修一郎先生、デンソークリエイト小林展英様はじめ、名古屋地区からの講演を再演いたします。
+https://www.ipa.go.jp/sec/events/20150120.html
+また、公益社団法人　日本山岳会の推薦で『電子国土功績賞2014』を受賞されたMap Makerの設計者の森田伸二さんに招待講演をお願いしています。Map Makerは国土数値情報から標高解析に重点を置き、豪雨や高潮、津波対策に有効な三次元モデルを作成します。ご講演では、Map Makerを初めとする有効なソフトウェアについてご紹介いただきます。
+さらに、TOPPERSプロジェクトの第三回アプリケーションコンテストで受賞された方々のご講演も予定しています。
+https://www.toppers.jp/contest.html
+ぜひ、皆様、お誘いの上ご参加いただけると幸いです。当日、会場で各種実演（デモ）等も予定しています。会場前付近では足元にお気をつけください。
+開催日時　2015年3月13日（金曜日）
+場所　名古屋市工業研究所　管理棟1Fホール
+開催時間　午前１０時から　午後５時まで
+参加：無料、資料代1000円。　定員：200人
+内容
+10:00- 10:30「要求逸脱に基づく例外試験項目の作成実験」名古屋大学山本修一郎教授
+https://www.ipa.go.jp/files/000043910.pdf
+10:30-11:00 「D-Case を用いたレビューを見える化する方法の導入事例」
+　　　　　（株）デンソークリエイト小林 展英 氏
+https://www.ipa.go.jp/files/000043911.pdf
+11:00-11:30   MISRA-C2004から2012への移行の課題」（株）ヴィッツ萩原勝 氏
+https://www.ipa.go.jp/files/000043914.pdf
+11:30-12:00 「SPEAK-IPAを用いた設計指向による公開アセスメントの試行」
+          （株）A&D 佐藤克 氏
+https://www.ipa.go.jp/files/000043915.pdf
+13:00-14:00　電子国土功績賞2014 「MapMakerの開発手法・帳票の設計」名古屋港管理組合　総合開発部長　森田伸二　氏
+https://psgsv.gsi.go.jp/koukyou/G-award/results2014.html
+14:10-14:45 TOPPERS/SSPを用いた教育訓練カリキュラムカーネルの自作およびカスタマイズ  アライブビジョンソフトウェア株式会社 高橋和浩　氏
+https://www.toppers.jp/docs/contest/2014/takahashi.pdf
+14:40-15:10 Toppers_ASPカーネルとScilab による組込みメカトロニクス制御シミュレーション 塩出武　氏
+https://www.toppers.jp/docs/contest/2014/shiode.pdf
+15:20-15:50 .AUTOSAR開発体験キット　富士ソフト株式会社　鴫原一人氏
+https://www.toppers.jp/docs/contest/2014/shigihara.pdf
+15:50-16:20組込みソフトウェア学習用教材ボードNCES TRAINING BOARDと教材
+松浦光洋　氏
+https://www.toppers.jp/docs/contest/2014/matsuura2.pdf
+16:30-17:00 VZエディタ・MINIXからA-SPICE, MISRA-C, TOPPERS, WOCSまで 名古屋市工業研究所　小川清 
+
+MISRA C 2012のTechnical Corrigendum 1の21.X訂正意見はすべて日本からだった件
+https://qiita.com/kaizen_nagoya/items/152c1de26b0831c02f41
+
+人生で影響を受けた本100冊
+https://qiita.com/kaizen_nagoya/items/16af53acbb147a94172e
+
+
+なお、転職にあたり課題設定しました。
+仮説・検証（185）人格改造　あいうえお　
+https://qiita.com/kaizen_nagoya/items/bfae8b4a486ee5fd72de
+
+新たな勤務先、職業等は、自動車技術会春季大会講演集にてお知らせすることになると思います。
+よろしくお願いいたします。
+
+#文書履歴(document history)
+ver. 0.01 初稿 20200331
+ver. 0.02 人格改造追記 20200401
+ver. 0.03 なごやからソフトウェアが始まる  20200402
+ver. 0.04 64歳、65歳の目標 追記 20200404 午前
+ver. 0.05 文字鏡フォント、日本語情報処理、JAXA 追記 20200404 午後
+ver. 0.06 名工大、岐阜大学連名論文URL等追記　20200406
+ver. 0.07 タグ修正 20200408
+
+<a href="https://b.hatena.ne.jp/entry/s/qiita.com/kaizen_nagoya/items/ff5700599677df73eaa8" class="hatena-bookmark-button" data-hatena-bookmark-layout="basic-label-counter" data-hatena-bookmark-lang="ja" title="このエントリーをはてなブックマークに追加"><img src="https://b.st-hatena.com/images/v4/public/entry-button/button-only@2x.png" alt="このエントリーをはてなブックマークに追加" width="20" height="20" style="border: none;" /></a><script type="text/javascript" src="https://b.st-hatena.com/js/bookmark_button.js" charset="utf-8" async="async"></script>
+https://b.hatena.ne.jp/guide/bbutton
