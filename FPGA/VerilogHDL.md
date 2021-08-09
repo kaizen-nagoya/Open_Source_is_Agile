@@ -1,5 +1,7 @@
 FPGA と Verilog HDL
 
+FPGA VerilogHDL SystemVerilog RTL STARC 
+
 FPGAでVerilogHDLを使ってから何年か立つ。
 
 Verilog HDLとSTARC RTL 設計スタイルガイドの教育と、
