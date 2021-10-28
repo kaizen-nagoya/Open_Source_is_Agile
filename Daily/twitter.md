@@ -1,4 +1,13 @@
- https://twitter.com/amikaakika 
+https://twitter.com/amikaakika 
+https://twitter.com/eliko38
+https://twitter.com/latina_sama
+https://twitter.com/yoshiseiron
+https://twitter.com/mionamajiko
+https://twitter.com/yuho_kisaragi
+https://twitter.com/ministar000
+https://twitter.com/egg_egg_egg86
+https://twitter.com/TANEofKAKI
+https://twitter.com/w06220212k
 
 
 
