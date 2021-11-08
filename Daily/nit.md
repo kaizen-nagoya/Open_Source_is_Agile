@@ -22,5 +22,16 @@
 他大学より少ないのは何故。
 
 # twitter
-大野 元久　
-柏原一雄　
+@fukushima1981 大野 元久　
+@kazuo_reve 柏原一雄　
+@nagoyakasa
+@takacha_n
+@c_mos
+@fukushima1981
+@kamiyan
+
+
+# その他
+山田範行
+鵜飼裕之
+
