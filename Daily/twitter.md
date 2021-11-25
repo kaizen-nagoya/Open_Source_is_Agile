@@ -1,3 +1,17 @@
+WOCSから
+
+https://twitter.com/mikio_aoyama お亡くなりになられました。
+
+
+
+
+
+
+
+
+
+
+----------
 @tomoshannn
 フォロー
 @oMaMeOg3
