@@ -1,0 +1,116 @@
+# open source just want to have fun.
+この記事は、英語で記載予定の記事の日本語版です。英語を追記するかもしれません。
+
+## Girls Just Want To Have Fun
+Cyndi Lauper - Girls Just Want To Have Fun (Official Video)
+https://www.youtube.com/watch?v=PIb6AZdTr-A
+
+好きなLive版は
+Cyndi Lauper-Girls just wanna have fun (The True Colour Tour live in Paris, France 1987)
+https://www.youtube.com/watch?v=Y7uL1JieDvo
+
+元歌は、
+Boys Just Want To Have Fun
+元歌があることを知ったのは、"SONG to SOUL"という音楽番組。139回。Cyndi Lauper - Girls Just Want To Have Fun
+https://www.bs-tbs.co.jp/songtosoul/onair/onair_135.html?fbclid=IwAR1uv3FTGhlgmNhM-7djjnu4dDAuQhMjM4wfgzSpwUGsiwi2m2bBhQeMuS8
+
+男性の歌を、女性視点に変え、Cyndi Lauperが最初に嫌がっていた事象をCyndi Lauperらしい内容に変換することによって、新しい価値が生まれたらしい。
+
+## 公開算譜は楽しいの (open source just want to have fun.)
+オープンソースでは、ソースコード以外の事を持ち込まない方がよい。
+人間関係、その土地の文化、組織の都合などなど。
+ソースコード以外の事は聞く必要がないのがオープンソース。
+オープンソースの出資者は、お金を払うことがその組織の都合にいいからであればよい。
+お金を払ったのだから組織の都合を聞けというのであれば、オープンソース以外に出資すればいい。
+
+真面目にOSSを公開する際にやってみたこと・意識したこと
+https://zenn.dev/ryo_kawamata/articles/b6f679bfe11261
+
+趣味でOSS活動をしていたらスポンサーがついた話
+https://zenn.dev/magurotuna/articles/sponsored-by-deno
+
+OSSノススメ
+https://zenn.dev/dodonki1223/articles/6418df73713313
+
+OSSを作ってコミュニティに貢献してみることについて
+https://zenn.dev/hmktsu/articles/caaf782516b4ffe00da4
+
+OSSを理解するために自分こんなことをやっていますということについて
+https://zenn.dev/hmktsu/articles/9422d6a490a61f6366a2
+
+オープンソースの定義について
+https://zenn.dev/tmtms/articles/5993d5efb59bed616de5
+
+Githubスター50獲得 実証済みの5ステップ
+https://zenn.dev/hand_dot/articles/542449fe4fc771
+
+OSSのバグに遭遇したときのトラブルシューティングのノウハウ
+https://zenn.dev/satoru_takeuchi/articles/a709833cfcddc574d2bc
+
+オープンソースドキュメント翻訳プラットフォームとしての GitHub - React 日本語ドキュメントの例
+https://zenn.dev/smikitky/articles/0d250f7367eda9
+
+GitHubが公開してるオープンソースガイドライン、まとめてみた。
+https://zenn.dev/naoki/articles/6b2a63e08f2b02e524d9
+
+[SwiftUI] OSSニュースアプリを作った
+https://zenn.dev/mtfum/articles/7540aef4ffb3a27bf37c
+
+オープンソースで公開するコードのプライベートキーは.envファイルに書いて、.gitignoreで除外しよう
+https://zenn.dev/st43/articles/88f3e7a60ba216
+
+2021年オープンソースWebクローラー10選
+https://zenn.dev/octoparse/articles/4a20d2621f81f9
+
+GitLabにパッチがマージされた話
+https://zenn.dev/blackenedgold/articles/57b67027ef0724
+
+## 電子計算機計画(programming)は楽しいの (just want to have fun.)
+オープンソースでなくても電子計算機の計画を立てる(programming)のは楽しい。
+自分が働くのではなく、電子計算機が働くのだから。
+
+[WIP] プログラマ・エンジニアとして覚えておきたいと思ったこと
+https://qiita.com/yoshi389111/items/feb602cd3a794eb6dba5
+
+で紹介がある。
+
+>怠惰（Laziness） - 効率や再利用性の重視
+>短気（Impatience） - 処理速度の追求
+>傲慢（Hubris） - 品質にかける自尊心
+
+Programming Perl, Larry Wall
+https://medium.com/@petecam/why-laziness-impatience-and-hubris-drives-great-developers-to-script-301f46f431
+
+自分が仕事をするのは嫌でも、電子計算機に仕事をさせるのは好きなら大丈夫。
+
+## 元歌　Boys just want to have fun
+元歌を Byo Gorgeがcoverした版を記録する。
+
+BOY GEORGE - Boys just want to have fun
+https://www.youtube.com/watch?v=iTwzPeQwcU8
+
+元歌が嫌いだといったCyndi LauperがBOY GEORGE の元歌のcoverは嫌じゃなかったのかもしれない。
+
+Girls (Boys) Just Wanna Have Fun - Cyndi Lauper and Boy George - ICC Sydney 4-4-2017
+https://www.youtube.com/watch?v=jCt0ugbby6M
+
+CULTURE CLUB （BOY GEORGE0 を　SONG TO SOULで取り上げているのは「カーマは気まぐれ」
+https://www.bs-tbs.co.jp/songtosoul/onair/onair_104.html
+
+## 参考資料(reference)
+プログラムは音楽だ (A program is a music.) 仮説・検証（54）
+https://qiita.com/kaizen_nagoya/items/33c9f33581e6886f8ad8
+
+作詞：松本隆。作曲：細野晴臣「風をあつめて」を計画書として事業展開, 現在「coverを集めて」 AUTOSAR(40)
+https://qiita.com/kaizen_nagoya/items/92365c542714f27e5658
+
+プログラムは詩のように描こう。仮説・検証(110)
+https://qiita.com/kaizen_nagoya/items/dd2a912f23b18e0f8893
+
+@vvakame 「オープンソースプロジェクトで上手いことやってくための10の方法」を拝読し
+https://qiita.com/kaizen_nagoya/items/81265788e7cf8f7b230b
+
+公開算譜は機敏だ(An Open Source Project is Agile)GitHub with Docker。Youtube(2) 仮説・検証（51）
+https://qiita.com/kaizen_nagoya/items/5dd49a046b5991af3a5e
+
+https://zenn.dev/articles/ab5dab8ea367e3/edit
