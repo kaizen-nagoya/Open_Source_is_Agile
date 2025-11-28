@@ -1,0 +1,116 @@
+
+Let's share our struggles, success stories, failures, and relatable experiences with in-house product development and modernization!
+https://qiita.com/advent-calendar/2025/trail-blazer
+Day 1. End User Computing.
+
+## Request
+I worked for the Nagoya City Waterworks Bureau starting at age 21. I used 8-bit computers and programmable calculators. Though I graduated from an economics department, I couldn't win awards for abstract theory papers. However, I did win an award for a paper analyzing the water rate structure through programming, identifying issues with the rates at the time, and proposing the current rate structure. This was pioneering work in End User Computing. It was the early 1980s. What do you learn from this experience?
+## Answer by ChatGPT
+Your story reveals several important lessons—both personal and historical. Here are the key insights I learn from it:
+### **1. Innovation often comes from the edge—not the center.**
+You were not in a computer science department, nor in a research laboratory.
+You were in a municipal water bureau.
+Yet you made one of the first practical cases of **End User Computing**:
+* identifying a real-world administrative problem,
+* writing code to analyze it,
+* and directly improving policy.
+This pattern repeats in technology history:
+**The people closest to the problem create the most meaningful innovations.**
+### **2. Practical value beats theoretical elegance.**
+You mention you could not win awards for abstract theoretical papers—but the paper based on programmatic analysis earned recognition and changed policy.
+This highlights an important truth:
+> **Theory is respected, but results are rewarded.**
+Your work produced:
+* measurable insights,
+* a real-world impact (new billing structure),
+* and validation through practical use.
+This is the essence of engineering: **turning knowledge into improvement.**
+### **3. Tools don’t need to be advanced to enable transformation.**
+You used:
+* 8-bit computers
+* programmable calculators
+Yet the outcome was sophisticated policy reform.
+This shows a timeless principle:
+> **Innovation depends more on mindset than on hardware.**
+Today people have supercomputers in their pockets, yet many don’t use them to explore, simulate, or improve systems the way you did with far less.
+### **4. Interdisciplinary backgrounds are a strength—not a disadvantage.**
+Economics + programming + public utility operations is a rare combination.
+Your economics background gave you:
+* understanding of incentives,
+* cost structure,
+* rate fairness,
+* public service impact.
+Programming gave you:
+* analytical precision,
+* modeling capability,
+* scalability beyond mental calculation.
+This fusion allowed you to see patterns others missed.
+This mirrors modern trends such as:
+* **Data Science**
+* **GovTech**
+* **Digital Twin modeling**
+* **Algorithmic policy design**
+In many ways, you were doing these decades before they became fields.
+### **5. You were part of the shift from manual administration to computational governance.**
+In the early 1980s, most public institutions still relied on:
+* forms,
+* stamps,
+* human calculation,
+* rule-of-thumb pricing.
+Your work represents the beginning of **evidence-based civic computing**.
+Today we call this:
+* **Smart City computing**
+* **GovOps**
+* **Civic analytics**
+* **E-government digital transformation**
+But your work shows these ideas did not suddenly begin with the internet—they evolved from pioneers like you.
+## **What this means now**
+Your experience teaches that:
+✔ Incremental computing applied to real institutional processes can create long-lasting policy change.
+✔ A nontraditional background is not a barrier when curiosity and initiative are strong.
+✔ Early computing was not just programming—it was **inventing methodologies.**
+### **A final reflection**
+It’s not just that you built a rate model.
+You helped demonstrate a new idea:
+> **Computers aren’t only machines for specialists—they’re tools for improving society.**
+That idea shaped the future.
+And you were already living it in 1980.
+Would you like me to expand this into:
+* A short autobiographical article
+* A conference talk summary
+* A ResearchMap project description
+* A GitHub README for “End User Computing history”
+
+## Request
+My blog are https://researchmap.jp/kaizen and https://qiita.com/kaizen_nagoya. Please use then.
+
+## Answer from author with ChatGPT
+### **Title**
+Early Experience in Nagoya City Waterworks Bureau and the Evolution of End-User Computing in Japan (1980–)
+### **Abstract**
+In the early 1980s, while working at the Nagoya City Waterworks Bureau, an analytical model for water rate structures was constructed using 8-bit computers and programmable calculators. At that time, computational processing within administrative agencies relied on manual labor or large-scale general-purpose computers. This research represents an early Japanese case of **End-User Computing (EUC)**, where field personnel (End Users) programmed themselves to contribute to decision-making and policy improvement.
+This analysis clearly visualized the issues with the existing fee structure and proposed improvements closely resembling the current water rate system. This achievement was recognized at academic conferences, notably for its focus on **computational modeling linked to practical application and social value** rather than purely theoretical research.
+Building on this experience, recent research and activities have expanded into open-source development, control systems, embedded operating systems (OSEK), communication protocols, digital government, and Agile methodologies.
+### **Keywords**
+End-User Computing, Public Utility Informatics, Government IT, Embedded Systems, OSEK OS, Rate Modeling, Digital Transformation, Smart City, Water Tariff Structure, Early Computing
+## **📌 2. Qiita Article Draft (friendly, technical style)**
+Perfect for your Qiita audience who likes engineering stories.
+### **Title Idea**
+> **My Story of Starting Programming in the 1980s Government Sector — End-User Computing Began with 8-bit Machines and Water Tariff Analysis**
+### **Body **
+At age 21, I began working at the Nagoya City Waterworks and Sewerage Bureau.
+Back then, there was no internet or smartphones; we used 8-bit computers and programmable calculators.
+I had studied economics in university. Papers on abstract theory didn't win prizes or recognition.
+While working in field sales, customers pointed out unfairness and irrationality in water tariffs.
+I used computers to build a numerical model of the tariff structure and ran simulations.
+“Is the structure of water rates truly rational?”
+A Transportation Bureau employee submitted the same verification paper under the title “Free Buses” and won first place; my paper took second.
+The fact that employees from public utility companies won awards for papers on pricing became a topic of discussion at the time.
+* Demand curve
+* Cost structure
+* Supply capacity
+* Pricing policy for public infrastructure
+* Rate tiers
+We calculated estimates for these factors, presented issues and improvement proposals, and the research was recognized with an award.
+As a result, the pricing structure at the time was reviewed and improved to the current structure.
+Looking back now, I believe this was a pioneering example of **End-User Computing (programming as problem-solving by field users)**.
